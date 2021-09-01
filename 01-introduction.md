@@ -68,3 +68,17 @@ title: Vita consilium
 * Software architect
 * Business
 * Leadership
+
+## Education qualifications
+
+* Chartered Engineer (CEng), Institute of Physics (IoP)
+* Diploma in Software Architecture, British Computing Society (BCS)
+* Masters of Business Administration (MBA), Cambridge Judge Business School
+* PgC Systems Engineering Management, University College London (UCL)
+
+## Programmes
+
+| Title | Subtitle | Institute |
+|---|---|---|
+| Oracle Certified Associate | Java Programmer | Oracle |
+| Oracle Certified Professional | Java Programmer | Oracle |
