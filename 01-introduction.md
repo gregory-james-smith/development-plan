@@ -52,6 +52,14 @@ title: Vita consilium
 * Modern languages
 * Instinctive
 
+## Programmes
+
+### Scripting
+
+| Title | Institute |
+|---|---|
+| Shell programming | Learning Tree |
+
 # Builder
 
 * Engineering
