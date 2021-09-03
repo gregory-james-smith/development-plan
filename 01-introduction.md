@@ -24,24 +24,32 @@ title: Vita consilium
 
 ## Programmes
 
-```yml
-- Computer science
-  - title: From NAND to Tetris
-    institution: Hebrew University of Jerusalem
-  - title: Structure and Interpretation of Computer Programmes
-- Drawing
-  - institution: London Fine Art Studios
-    title: Foundation course
-  - title: Drawing on the Right Side of the Brain
-- Thinking
-  - title: Symbolic Systems
-    institute: Stanford University
-  - title: Centre for the Study of Complex Systems
-    institute: University of Michigan
-- Design
-  - title: "TRIZ: Principle and description"
-    institute: Imperial College London
-```
+### Computer science
+
+| Title | Subtitle |
+|---|---|
+| From NAND to Tetris | Hebrew University of Jerusalem |
+| Structure and Interpretation of Computer Programmes | |
+
+### Drawing
+
+| Title | Subtitle |
+|---|---|
+| London Fine Art Studios | Foundation course |
+| Drawing on the Right Side of the Brain |  |
+
+### Thinking
+
+| Title | Subtitle |
+|---|---|
+| Symbolic Systems | Stanford University |
+| Centre for the Study of Complex Systems | University of Michigan |
+
+### Design
+
+| Title | Subtitle |
+|---|---|
+| TRIZ: Principle and description | Imperial College London |
 
 # Harlequin
 
