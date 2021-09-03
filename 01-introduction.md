@@ -56,7 +56,7 @@ title: Vita consilium
 
 ### Scripting
 
-| Title | Institute |
+| Title | Subtitle |
 |---|---|
 | Shell programming | Learning Tree |
 
@@ -78,7 +78,7 @@ title: Vita consilium
 
 ## Programmes
 
-| Title | Subtitle | Institute |
-|---|---|---|
-| Oracle Certified Associate | Java Programmer | Oracle |
-| Oracle Certified Professional | Java Programmer | Oracle |
+| Title | Subtitle |
+|---|---|
+| Oracle Certified Associate | Java Programmer |
+| Oracle Certified Professional | Java Programmer |
