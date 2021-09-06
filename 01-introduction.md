@@ -2,6 +2,11 @@
 title: Vita consilium
 ---
 
+<!--
+Bullet points are turned into bullet separated lists
+Table entries are turned into bold title and regular subtitle paragraphs separated by new line
+-->
+
 # Magician
 
 * Creativity
@@ -21,6 +26,7 @@ title: Vita consilium
 * PgC Systems Thinking in Practice, The Open University
 * PgC Cognitive Archaeology, University of Colorado Boulder
 * MSc Mathematics, The Open University
+* PgC Biological Mimicry, University of Michigan
 
 ## Programmes
 
@@ -30,6 +36,7 @@ title: Vita consilium
 |---|---|
 | From NAND to Tetris | Hebrew University of Jerusalem |
 | Structure and Interpretation of Computer Programmes | |
+| Artificial intelligence |  |
 
 ### Drawing
 
@@ -50,6 +57,7 @@ title: Vita consilium
 | Title | Subtitle |
 |---|---|
 | TRIZ: Principle and description | Imperial College London |
+| Graduate Pearls Diploma | GIA |
 
 # Harlequin
 
@@ -60,6 +68,11 @@ title: Vita consilium
 * Modern languages
 * Instinctive
 
+## Education qualifications
+
+* Mandarin HSK level 3
+* Certified Ethical Hacking, EC Council
+
 ## Programmes
 
 ### Scripting
@@ -67,6 +80,10 @@ title: Vita consilium
 | Title | Subtitle |
 |---|---|
 | Shell programming | Learning Tree |
+
+### Data science
+
+
 
 # Builder
 
@@ -90,3 +107,4 @@ title: Vita consilium
 |---|---|
 | Oracle Certified Associate | Java Programmer |
 | Oracle Certified Professional | Java Programmer |
+| Architecture and systems engineering | MIT xPro |
