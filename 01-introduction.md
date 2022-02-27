@@ -21,7 +21,7 @@ Table entries are turned into bold title and regular subtitle paragraphs separat
 
 ## Education qualifications
 
-* BA MA Natural Sciences, University of Cambridge
+* MA MSci Natural Sciences, University of Cambridge
 * BSc Open Degree, The Open University
 * PgC Systems Thinking in Practice, The Open University
 * PgC Cognitive Archaeology, University of Colorado Boulder
